@@ -1,0 +1,1222 @@
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Blueprints/Collider_BP.uasset" 0
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 1
+"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 2
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Character/Mesh/castle_guard_01_Skeleton.uasset" 3
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Character/Animation/Falling_Idle.uasset" 4
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Character/Animation/Jumping_Down.uasset" 5
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Character/Animation/Jumping_Up.uasset" 6
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Character/Animation/SprintArmed.uasset" 7
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Character/Animation/Two_Cycle_Sprint.uasset" 8
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Character/Animation/IdleArmed.uasset" 9
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Character/Animation/RunArmed.uasset" 10
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Character/Animation/WalkArmed.uasset" 11
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Character/Animation/ArmedIdleWalkRunBlendspace.uasset" 12
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Character/Animation/Running.uasset" 13
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Character/Animation/Walking.uasset" 14
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Character/Animation/Warrior_Idle.uasset" 15
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Character/Animation/IdleWalkRun_BlendSpace.uasset" 16
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Character/Animation/MainAnim_BP.uasset" 17
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Character/Animation/Attack_1.uasset" 18
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Character/Animation/Attack_2.uasset" 19
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Character/Animation/Falling_Forward_Death.uasset" 20
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Character/Animation/CombatMontage.uasset" 21
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_DragonSword/T_Blade_DragonSword1_D.uasset" 22
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_DragonSword/T_Blade_DragonSword1_M.uasset" 23
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_DragonSword/T_Blade_DragonSword1_N.uasset" 24
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_DragonSword/T_Blade_DragonSword2_D.uasset" 25
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_DragonSword/T_Blade_DragonSword2_M.uasset" 26
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_DragonSword/T_Blade_DragonSword2_N.uasset" 27
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_DragonSword/M_Blade_DragonSword.uasset" 28
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_DragonSword/SK_Blade_DragonSword_Skeleton.uasset" 29
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_DragonSword/SK_Blade_DragonSword.uasset" 30
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/FX/Textures/Gradients/Color/T_Poison_Gradient.uasset" 31
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/FX/Textures/Smoke/Inky/T_ShadowSwirls_v2_N.uasset" 32
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/FX/Textures/Smoke/T_ShadowSwirls_v2B.uasset" 33
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/FX/Materials/Environment/Dust/M_Poison_SubUV_Swirl.uasset" 34
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/FX/Textures/Smoke/T_ImpactDust_01.uasset" 35
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/FX/Textures/Tile/Organic/T_Tiling_Dust.uasset" 36
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/FX/Materials/Environment/Dust/M_PoisonDust_SubUV.uasset" 37
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/FX/Particles/SharedGameplay/States/Poison/P_Poison.uasset" 38
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Sounds/Blade1.uasset" 39
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Sounds/Blade1_Cue.uasset" 40
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Sounds/SwordSwing2.uasset" 41
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Sounds/SwordSwing2_Cue.uasset" 42
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Weapons/DragonBlade.uasset" 43
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeWeapons/Weapons/Blade/Axes/Blade_FissureBlade/T_Blade_FissueBlade1_D.uasset" 44
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeWeapons/Weapons/Blade/Axes/Blade_FissureBlade/T_Blade_FissueBlade1_M.uasset" 45
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeWeapons/Weapons/Blade/Axes/Blade_FissureBlade/T_Blade_FissueBlade1_N.uasset" 46
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeWeapons/Weapons/Blade/Axes/Blade_FissureBlade/T_Blade_FissueBlade2_D.uasset" 47
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeWeapons/Weapons/Blade/Axes/Blade_FissureBlade/T_Blade_FissueBlade2_M.uasset" 48
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeWeapons/Weapons/Blade/Axes/Blade_FissureBlade/T_Blade_FissueBlade2_N.uasset" 49
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeWeapons/Weapons/Blade/Axes/Blade_FissureBlade/M_Blade_FissureBlade.uasset" 50
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeWeapons/Weapons/Blade/Axes/Blade_FissureBlade/SK_Blade_FissureBlade_Skeleton.uasset" 51
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeWeapons/Weapons/Blade/Axes/Blade_FissureBlade/SK_Blade_FissureBlade.uasset" 52
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 53
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 54
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 55
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Particles/P_Smoke.uasset" 56
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Weapons/FissureBlade.uasset" 57
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_Glimmer/T_Blade_Glimmer1_D.uasset" 58
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_Glimmer/T_Blade_Glimmer1_N.uasset" 59
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_Glimmer/T_Blade_Glimmer2_D.uasset" 60
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_Glimmer/T_Blade_Glimmer2_M.uasset" 61
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_Glimmer/T_Blade_Glimmer2_N.uasset" 62
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_Glimmer/M_Blade_Glimmer.uasset" 63
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_Glimmer/SK_Blade_Glimmer_Skeleton.uasset" 64
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_Glimmer/SK_Blade_Glimmer.uasset" 65
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 66
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 67
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 68
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_Water_N.uasset" 69
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 70
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 71
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 72
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Particles/P_Fire.uasset" 73
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Weapons/Glimmer.uasset" 74
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeWeapons/Weapons/Blade/Axes/Blade_GreatBlade/T_Blade_GreatBlade1_D.uasset" 75
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeWeapons/Weapons/Blade/Axes/Blade_GreatBlade/T_Blade_GreatBlade1_M.uasset" 76
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeWeapons/Weapons/Blade/Axes/Blade_GreatBlade/T_Blade_GreatBlade1_N.uasset" 77
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeWeapons/Weapons/Blade/Axes/Blade_GreatBlade/T_Blade_GreatBlade2_D.uasset" 78
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeWeapons/Weapons/Blade/Axes/Blade_GreatBlade/T_Blade_GreatBlade2_M.uasset" 79
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeWeapons/Weapons/Blade/Axes/Blade_GreatBlade/T_Blade_GreatBlade2_N.uasset" 80
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeWeapons/Weapons/Blade/Axes/Blade_GreatBlade/M_Blade_GreatBlade.uasset" 81
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeWeapons/Weapons/Blade/Axes/Blade_GreatBlade/SK_Blade_GreatBlade_Skeleton.uasset" 82
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeWeapons/Weapons/Blade/Axes/Blade_GreatBlade/SK_Blade_GreatBlade.uasset" 83
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_Spark_Core.uasset" 84
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Particles/Materials/M_Spark.uasset" 85
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Particles/P_Sparks.uasset" 86
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Weapons/GreatBlade.uasset" 87
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_BlackKnight/T_Blade_BlackKnight_Sword1_D.uasset" 88
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_BlackKnight/T_Blade_BlackKnight_Sword1_M.uasset" 89
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_BlackKnight/T_Blade_BlackKnight_Sword1_N.uasset" 90
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_BlackKnight/T_Blade_BlackKnight_Sword2_D.uasset" 91
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_BlackKnight/T_Blade_BlackKnight_Sword2_M.uasset" 92
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_BlackKnight/T_Blade_BlackKnight_Sword2_N.uasset" 93
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_BlackKnight/M_Blade_BlackKnight.uasset" 94
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_BlackKnight/SK_Blade_BlackKnight_Skeleton.uasset" 95
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_BlackKnight/SK_Blade_BlackKnight.uasset" 96
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Particles/P_Steam_Lit.uasset" 97
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Weapons/KnightBlade.uasset" 98
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Blueprints/ItemStorage_BP.uasset" 99
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Character/Matirals/Guard_02__diffuse.uasset" 100
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Character/Matirals/Guard_02__normal.uasset" 101
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Character/Matirals/Guard_02__specular.uasset" 102
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Character/Matirals/Guard_02.uasset" 103
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Character/Mesh/castle_guard_01_PhysicsAsset.uasset" 104
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Character/Mesh/castle_guard_01.uasset" 105
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 106
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential.uasset" 107
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/FXVillesBloodVFXPack/MaterialFunctions/MF_SmoothStep.uasset" 108
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/FXVillesBloodVFXPack/Textures/T_Blood_Clip_A.uasset" 109
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/FXVillesBloodVFXPack/Textures/T_Blood_Clip_N.uasset" 110
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/FXVillesBloodVFXPack/Textures/T_Blood_Reflection.uasset" 111
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/FXVillesBloodVFXPack/Textures/T_Noise_N_02.uasset" 112
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/FXVillesBloodVFXPack/Materials/MAT_BloodClip_Master.uasset" 113
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/FXVillesBloodVFXPack/Materials/MIC_BloodClip_A.uasset" 114
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/FXVillesBloodVFXPack/Textures/T_Blood_SubUV_2x2_01.uasset" 115
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/FXVillesBloodVFXPack/Textures/T_Blood_SubUV_2x2_01_N.uasset" 116
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/FXVillesBloodVFXPack/Materials/MIC_BloodClip_Splat_2x2.uasset" 117
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/FXVillesBloodVFXPack/Particles/PS_Blood_Spurt_02.uasset" 118
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Sounds/impact_metal_stick_light.uasset" 119
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Sounds/impact_metal_stick_light_Cue.uasset" 120
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Character/Main_BP.uasset" 121
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/HUD/EnemyHelathBar.uasset" 122
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/HUD/HUD_Texture/CoinTransBG.uasset" 123
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/HUD/Coins.uasset" 124
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/HUD/HealthBar.uasset" 125
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/HUD/StaminaBar.uasset" 126
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/HUD/HUDOverlay.uasset" 127
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/HUD/PauseMenu.uasset" 128
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Blueprints/MainPlayerController_BP.uasset" 129
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Blueprints/CritterGameMode_BP.uasset" 130
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeAdversaries/Enemy/Enemy_Great_Spider/SK_Greater_Spider_Skeleton.uasset" 131
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeAdversaries/Enemy/Enemy_Great_Spider/Enemy_SpiderGreater_Animation/ExoGame_Greater_Spider_Idle.uasset" 132
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeAdversaries/Enemy/Enemy_Great_Spider/Textures/T_Enemy_GreaterSpider_Fire_D.uasset" 133
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeAdversaries/Enemy/Enemy_Great_Spider/Textures/T_Enemy_GreaterSpider_Fire_M.uasset" 134
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeAdversaries/Enemy/Enemy_Great_Spider/Textures/T_Enemy_GreaterSpider_Fire_N.uasset" 135
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeAdversaries/Enemy/Enemy_Great_Spider/Materials/CharM_Greater_Spider.uasset" 136
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeAdversaries/Enemy/Enemy_Great_Spider/SK_Greater_Spider.uasset" 137
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Blueprints/Critter_BP.uasset" 138
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Weapons/Glimmer_BP.uasset" 139
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Blueprints/Glimmer_BP.uasset" 140
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Blueprints/Glimmer.uasset" 141
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Blueprints/Weapon_BP.uasset" 142
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 143
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 144
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 145
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 146
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/FX/Meshes/Liquid/SM_Pyro_Spit_Mesh_03.uasset" 147
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Materials/M_Basic_Wall.uasset" 148
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Architecture/Pillar_50x500.uasset" 149
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Architecture/Wall_400x300.uasset" 150
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Architecture/Wall_400x400.uasset" 151
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Architecture/Wall_500x500.uasset" 152
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 153
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 154
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Audio/Collapse01.uasset" 155
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Audio/Collapse02.uasset" 156
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Audio/Explosion01.uasset" 157
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Audio/Explosion02.uasset" 158
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Audio/Fire01.uasset" 159
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Audio/Fire_Sparks01.uasset" 160
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Audio/Light01.uasset" 161
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Audio/Light01_Cue.uasset" 162
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Audio/Light02.uasset" 163
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Audio/Light02_Cue.uasset" 164
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Audio/Smoke01.uasset" 165
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Audio/Starter_Birds01.uasset" 166
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Audio/Starter_Music01.uasset" 167
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Audio/Starter_Wind05.uasset" 168
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Audio/Starter_Wind06.uasset" 169
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Audio/Steam01.uasset" 170
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Audio/Explosion_Cue.uasset" 171
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_Burst_M.uasset" 172
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Particles/Materials/M_Burst.uasset" 173
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 174
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 175
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 176
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 177
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Particles/P_Explosion.uasset" 178
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 179
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 180
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 181
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_Bush_D.uasset" 182
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_Bush_N.uasset" 183
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Props/Materials/M_Bush.uasset" 184
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Props/SM_Bush.uasset" 185
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_Chair_M.uasset" 186
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_Chair_N.uasset" 187
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Props/Materials/M_Chair.uasset" 188
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Props/SM_Couch.uasset" 189
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Materials/M_Glass.uasset" 190
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_Door_M.uasset" 191
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_Door_N.uasset" 192
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Props/Materials/M_Door.uasset" 193
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Props/SM_Door.uasset" 194
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 195
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 196
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 197
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 198
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 199
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 200
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_RockMesh_M.uasset" 201
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_RockMesh_N.uasset" 202
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Props/Materials/M_Rock.uasset" 203
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Props/SM_Rock.uasset" 204
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_Shelf_M.uasset" 205
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_Shelf_N.uasset" 206
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Props/Materials/M_Shelf.uasset" 207
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Props/SM_Shelf.uasset" 208
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Materials/M_Basic_Floor.uasset" 209
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Props/SM_Stairs.uasset" 210
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Shapes/Shape_Cone.uasset" 211
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 212
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 213
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Shapes/Shape_Pipe.uasset" 214
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 215
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 216
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Shapes/Shape_Plane.uasset" 217
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Shapes/Shape_Torus.uasset" 218
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Shapes/Shape_Trim.uasset" 219
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 220
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 221
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 222
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Shapes/Shape_Tube.uasset" 223
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 224
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 225
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 226
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 227
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 228
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 229
+"../../../Engine/Content/BasicShapes/Cone.uasset" 230
+"../../../Engine/Content/BasicShapes/Cube.uasset" 231
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 232
+"../../../Engine/Content/BasicShapes/Plane.uasset" 233
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 234
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 235
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 236
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 237
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 238
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 239
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 240
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 241
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 242
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 243
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 244
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 245
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 246
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 247
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 248
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 249
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 250
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 251
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 252
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 253
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 254
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 255
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 256
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 257
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 258
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 259
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 260
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 261
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 262
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 263
+"../../../Engine/Content/EditorResources/S_Note.uasset" 264
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 265
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 266
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 267
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 268
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 269
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 270
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 271
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 272
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 273
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 274
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 275
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 276
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 277
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 278
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 279
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset" 280
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 281
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 282
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 283
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 284
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 285
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 286
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 287
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 288
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 289
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 290
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 291
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 292
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 293
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 294
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 295
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 296
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 297
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 298
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 299
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 300
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 301
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 302
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 303
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 304
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 305
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 306
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 307
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 308
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 309
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 310
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 311
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 312
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 313
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 314
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 315
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 316
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 317
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 318
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 319
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 320
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 321
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 322
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 323
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 324
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 325
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 326
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 327
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 328
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 329
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 330
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 331
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 332
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 333
+"../../../Engine/Content/EngineSounds/Master.uasset" 334
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 335
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 336
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 337
+"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 338
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 339
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 340
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 341
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 342
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 343
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 344
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 345
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 346
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 347
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 348
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 349
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 350
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 351
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 352
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 353
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 354
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 355
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 356
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 357
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 358
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 359
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 360
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 361
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 362
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 363
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 364
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 365
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 366
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 367
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 368
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 369
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 370
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 371
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 372
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 373
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 374
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 375
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 376
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraBooleanLogicOps.uasset" 377
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraCoordinateSpace.uasset" 378
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraExpansionMode.uasset" 379
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraOrientationAxis.uasset" 380
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uasset" 381
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 382
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 383
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 384
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 385
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 386
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 387
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 388
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Textures/T_Smoke_D.uasset" 389
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Materials/M_Godray.uasset" 390
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Materials/M_Godray_Inst.uasset" 391
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Meshes/SM_GodRay.uasset" 392
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/BluePrints/BP_Godray.uasset" 393
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/Characters/Minions/Down_Minions/Meshes/Minion_Lane_Core_Skeleton.uasset" 394
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/Characters/Minions/Down_Minions/Animations/Melee/Combat_JogFwd.uasset" 395
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/Characters/Minions/Down_Minions/Animations/Melee/NonCombat_Idle.uasset" 396
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/Characters/Minions/Down_Minions/Animations/Melee/NonCombat_JogFwd.uasset" 397
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/Characters/Minions/Down_Minions/Animations/Melee/Blendspaces/IdleToRun_A_Combat.uasset" 398
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Enemies/Minions/Animations/MinionDawnAnim_Bp.uasset" 399
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/Characters/Minions/Down_Minions/Animations/Melee/Attack_B.uasset" 400
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/Characters/Minions/Down_Minions/Animations/Melee/Death_A.uasset" 401
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/DeriveHDRfromLDR.uasset" 402
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/FlattenNormal.uasset" 403
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Swizzle.uasset" 404
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/FX/Materials/Functions/FadeBasedOnViewAngle.uasset" 405
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/FX/Materials/Functions/FX_EmissiveModulate.uasset" 406
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/FX/Textures/Masks/T_EngineFlameMask.uasset" 407
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/FX/Textures/Masks/T_ShockWave_Direction_N.uasset" 408
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/FX/Textures/Masks/T_ShockWave_Edge.uasset" 409
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/FX/Textures/Tile/Energy/Plasma/T_Sparrow_Poster_Tendrils_v2_Seamless.uasset" 410
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/FX/Textures/Tile/Noise/T_Cave_Noise_14.uasset" 411
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/FX/Textures/Tile/Noise/T_Inky_Smoke_Tile.uasset" 412
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/FX/Textures/Tile/Noise/T_Perlin_Soft_Packed_Gchannel_N.uasset" 413
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/FX/Textures/Tile/Noise/T_Soft_Noise.uasset" 414
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/FX/Textures/Tile/Noise/T_Voronoi_Cells_02.uasset" 415
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/FX/Textures/Water/T_Water_N1.uasset" 416
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/FX/Materials/Trails/M_PrimaryTrails.uasset" 417
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/FX/Particles/Minions/Shared/P_MeleeMinionTrail_Enemy.uasset" 418
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Enemies/Minions/Animations/MinionDawnMontage.uasset" 419
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 420
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast.uasset" 421
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/MetallicShading.uasset" 422
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/WorldAlignedTexture.uasset" 423
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedPixelToPixelUVs.uasset" 424
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 425
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 426
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DitherTemporalAA.uasset" 427
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Lerp_ScratchGrime.uasset" 428
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_BreakBaseColor.uasset" 429
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Emissive.uasset" 430
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_OverrideBaseColor.uasset" 431
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Standard.uasset" 432
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Tint.uasset" 433
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/Characters/Global/FX/Textures/Tile/Noise/T_Voronoi_Cells_02.uasset" 434
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/Characters/Global/Eyes/MaterialFunctions/MinionBurn.uasset" 435
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/Characters/Global/Eyes/MaterialFunctions/MF_Minion_EmissiveFX.uasset" 436
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/Characters/Global/FX/Materials/Functions/MF_MinionApperation.uasset" 437
+"../../../Engine/Content/EngineMaterials/DefaultNormal.uasset" 438
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/Characters/Global/MaterialLayers/T_TestML_Mask.uasset" 439
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/Characters/Global/MaterialLayers/ML__Blank.uasset" 440
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/Characters/Global/ParameterCollections/OrionGlobalGameplayCollection.uasset" 441
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/Characters/Global/MaterialFunctions/HitFlash.uasset" 442
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/Characters/Global/MaterialFunctions/MaterialLayerConstructors/MLC_ScratchAndGrime.uasset" 443
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/Characters/Global/MaterialFunctions/MaterialLayerConstructors/MLC_Standard.uasset" 444
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/Characters/Global/MaterialFunctions/MF_BrightnessAdjust.uasset" 445
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/Characters/Global/MaterialFunctions/Textures/T_AtmosphericCloudNoise01.uasset" 446
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/Characters/Global/MaterialFunctions/Textures/T_AtmosphericCloudNoise01_N.uasset" 447
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/Characters/Global/MaterialFunctions/Textures/T_AtmosphericCloudNoise03.uasset" 448
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/Characters/Global/MaterialFunctions/MF_DeathFade.uasset" 449
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/Characters/Global/MaterialLayers/Metal/T_Blue_Metal02.uasset" 450
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/Characters/Global/MaterialLayers/Rubber/T_Blank_N.uasset" 451
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/Characters/Global/MaterialLayers/Metal/ML_blue_Metal.uasset" 452
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/Characters/Global/MaterialFunctions/MF_OrionRimlight.uasset" 453
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/Characters/Global/MaterialFunctions/MF_CharacterEffects.uasset" 454
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/Characters/Global/MaterialFunctions/mf_MinionPrimeBuff.uasset" 455
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/Characters/Minions/Down_Minions/Textures/Super/T_Minion_Dawn_Super_D.uasset" 456
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/Characters/Minions/Down_Minions/Textures/Super/T_Minion_Dawn_Super_MASK01.uasset" 457
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/Characters/Minions/Down_Minions/Textures/Super/T_Minion_Dawn_Super_N.uasset" 458
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/Characters/Minions/Down_Minions/Materials/Shared/M_Dawn_Minion_MASTER.uasset" 459
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/Characters/Minions/Down_Minions/Textures/Melee/Core/T_Minion_Dawn_Core_Melee_D.uasset" 460
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/Characters/Minions/Down_Minions/Textures/Melee/Core/T_Minion_Dawn_Core_Melee_MASK01.uasset" 461
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/Characters/Minions/Down_Minions/Textures/Melee/Core/T_Minion_Dawn_Core_Melee_N.uasset" 462
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/Characters/Minions/Down_Minions/Materials/Melee/M_Dawn_Minion_Melee_Core.uasset" 463
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/Characters/Minions/Dusk_Minions/Meshes/Minion_Lane_Melee_Core_ShadowCyl.uasset" 464
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/Characters/Minions/Down_Minions/Meshes/Minion_Lane_Melee_Core_Dawn.uasset" 465
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/FX/Textures/Tile/Noise/T_2ndInfectedMapLinear.uasset" 466
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/FX/Materials/Liquid/M_Minion_Liquid_Mesh.uasset" 467
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/FX/Materials/Functions/M_Eleven_Colors.uasset" 468
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/FX/Textures/Flares/T_Flare_Spikeball.uasset" 469
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/FX/Materials/Flares/M_Lensflare_TB_Soft_LDR2HDR.uasset" 470
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/FX/Materials/Flares/M_Lensflare_TB_Soft_LDR2HDR_Minion_Inst.uasset" 471
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/SCurve.uasset" 472
+"../../../Engine/Content/MapTemplates/TilingNoise05.uasset" 473
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/TriplanarCameraVector.uasset" 474
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Sign.uasset" 475
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Round.uasset" 476
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/FX/Materials/Functions/MF_RandomSubUV_GPUSprites.uasset" 477
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/FX/Materials/Functions/MF_SmoothStep.uasset" 478
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/FX/Textures/Liquid/T_Liquid_Reflection.uasset" 479
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/FX/Textures/Tile/Noise/T_2ndInfectedMapNormal.uasset" 480
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/FX/Textures/Tile/Organic/T_tile_vector_noise_soft.uasset" 481
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/FX/Textures/Water/T_BoilBubble_N.uasset" 482
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/FX/Textures/Water/T_WaterSplash2x2.uasset" 483
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/FX/Materials/Water/M_WateDroplets_Simple.uasset" 484
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/FX/Textures/Water/T_waterSplash.uasset" 485
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/FX/Materials/Liquid/M_MinionDroplets_Inst.uasset" 486
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/FX/Materials/Functions/MF_ParticleRandomSize.uasset" 487
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/FX/Textures/Sparks/T_Spark_Soft.uasset" 488
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/FX/Materials/Sparks/M_Hotdog_VLerp_DirectionTint.uasset" 489
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/FX/Materials/Sparks/M_Hotdog_VLerp_DirectionTint_Minion_Inst.uasset" 490
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/FX/Textures/Water/T_BoilBubble_D.uasset" 491
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/FX/Materials/Water/M_WateDroplets_Minions_Drops.uasset" 492
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/FX/Meshes/Liquid/SM_Pyro_Spit_Mesh_02.uasset" 493
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/FX/Meshes/Liquid/SM_Pyro_Spit_Mesh_04.uasset" 494
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/FX/VectorFields/Noisy_Turbulence_103.uasset" 495
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/FX/Particles/Minions/Minion_melee/FX/Impacts/P_Minion_Impact_Default.uasset" 496
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Enemies/Minions/MinionDawn_BP.uasset" 497
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/Characters/Global/MaterialFunctions/T_ThinFilm_Spectrum_COLOR.uasset" 498
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/Characters/Global/MaterialFunctions/MF_ThinFilm_Frensel.uasset" 499
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/Characters/Minions/Dusk_Minions/Textures/Super/T_Minion_Dusk_Super_COL.uasset" 500
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/Characters/Minions/Dusk_Minions/Textures/Super/T_Minion_Dusk_Super_N.uasset" 501
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/Characters/Minions/Dusk_Minions/Textures/Super/T_Minion_Dusk_Super_RGBAO.uasset" 502
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/Characters/Minions/Dusk_Minions/Materials/Shared/M_Minion_Dusk_Parent.uasset" 503
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/Characters/Minions/Dusk_Minions/Textures/Melee/T_Minion_Dusk_Melee_Core_COL.uasset" 504
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/Characters/Minions/Dusk_Minions/Textures/Melee/T_Minion_Dusk_Melee_Core_N.uasset" 505
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/Characters/Minions/Dusk_Minions/Textures/Melee/T_Minion_Dusk_Melee_Core_RGBAO.uasset" 506
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/Characters/Minions/Dusk_Minions/Materials/Shared/MI_Minion_Dusk_Core.uasset" 507
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/Characters/Global/NotForShip/Human_Scans/_Common/SSP_Human_Default.uasset" 508
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/Characters/Minions/Dusk_Minions/Materials/Melee/MI_Minion_Dusk_Melee_Core.uasset" 509
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/Characters/Minions/Dusk_Minions/Meshes/Minion_Lane_Melee_Core_Dusk.uasset" 510
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Enemies/Minions/MinionDusk_BP.uasset" 511
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/Characters/Minions/Down_Minions/Textures/Melee/T_Minion_Dawn_Melee_D.uasset" 512
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/Characters/Minions/Down_Minions/Textures/Melee/T_Minion_Dawn_Melee_MASK01.uasset" 513
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/Characters/Minions/Down_Minions/Textures/Melee/T_Minion_Dawn_Melee_N.uasset" 514
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/Characters/Minions/Down_Minions/Materials/Melee/M_Dawn_Minion_Melee.uasset" 515
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/Characters/Minions/Down_Minions/Meshes/Minion_Lane_Melee_Physics.uasset" 516
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/Characters/Minions/Down_Minions/Meshes/Minion_Lane_Melee_ShadowCyl.uasset" 517
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/Characters/Minions/Down_Minions/Meshes/Minion_Lane_Melee_Dawn.uasset" 518
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Enemies/Minions/MinionLane_BP.uasset" 519
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeAdversaries/Enemy/Enemy_Great_Spider/Enemy_SpiderGreater_Animation/ExoGame_Greater_Spider_Walk_Fwd.uasset" 520
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Enemies/Spider/SpiderIdleWalk_BlendSpace.uasset" 521
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Enemies/Spider/SpiderAnim_BP.uasset" 522
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeAdversaries/Enemy/Enemy_Great_Spider/Enemy_SpiderGreater_Animation/ExoGame_Greater_Spider_Attack_Melee_B.uasset" 523
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeAdversaries/Enemy/Enemy_Great_Spider/Enemy_SpiderGreater_Animation/ExoGame_Greater_Spider_Death.uasset" 524
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Enemies/Spider/SpiderCombatMontage.uasset" 525
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Sounds/HitSound.uasset" 526
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Sounds/HitSound_Cue.uasset" 527
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Sounds/SwordSwing1.uasset" 528
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Sounds/SwordSwing1_Cue.uasset" 529
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Enemies/Spider/Spider_BP.uasset" 530
+"../../../Engine/Content/EngineResources/Black.uasset" 531
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeEffects/Effects/Masters/M_Add_Sprite_Master_DepthFade.uasset" 532
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_starFlare_02.uasset" 533
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_02_INST.uasset" 534
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeEffects/Effects/Masters/M_Add_Sprite_Master.uasset" 535
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_starFlare_03.uasset" 536
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_04_INST.uasset" 537
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_LightCone.uasset" 538
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_Vertical_02_Inst.uasset" 539
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeEffects/Effects/FX_Treasure/Chest/P_TreasureChest_CallOut.uasset" 540
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/GameplayMechanics/EnemiesVolume_BP.uasset" 541
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/DemoRoom/Textures/T_UnrealEngineDecal.uasset" 542
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ExampleContent/Blueprints/Materials/M_Pickup_Coin.uasset" 543
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ExampleContent/Blueprints/Meshes/SM_Pickup_Coin.uasset" 544
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Sounds/CoinsSound.uasset" 545
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Sounds/CoinsSound_Cue.uasset" 546
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/GameplayMechanics/Coin_BP.uasset" 547
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_starFlare_01.uasset" 548
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_01_INST.uasset" 549
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_SoftFallOff.uasset" 550
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_03_INST.uasset" 551
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeEffects/Effects/FX_Treasure/Gold_Bag/P_GoldSparkle_Bag_Loop.uasset" 552
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/MultistoryDungeons/Textures/Atlas_Props_02.uasset" 553
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/MultistoryDungeons/Textures/Atlas_Props_02_Metallic.uasset" 554
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/MultistoryDungeons/Textures/Atlas_Props_02_Normal.uasset" 555
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/MultistoryDungeons/Textures/Atlas_Props_02_Roughness.uasset" 556
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/MultistoryDungeons/Materials/Props_02.uasset" 557
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/MultistoryDungeons/Materials/Props_02_Inst.uasset" 558
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/MultistoryDungeons/Meshes/Props/Potion_01.uasset" 559
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/FX/Textures/Coords/T_Turbulence_AdditiveWarp_Linear.uasset" 560
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/FX/Textures/Smoke/T_MinionSmokeMask_Test.uasset" 561
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/FX/Textures/Smoke/T_MinionSmokeTile.uasset" 562
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/FX/Materials/Smoke/M_InvisSmoke_MasterAdditiveWarp_Emissive.uasset" 563
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/ParagonMinions/FX/Particles/PlayerBuffs/P_CarriedBuff_Received_Red.uasset" 564
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Sounds/PotionWAV.uasset" 565
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Sounds/PotionWAV_Cue.uasset" 566
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/GameplayMechanics/Potion_1_BP.uasset" 567
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/GameplayMechanics/PickupVolume_BP1.uasset" 568
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeEffects/Effects/FX_Textures/Fire/T_JaggedRockFirey_01_D.uasset" 569
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeEffects/Effects/FX_Textures/Fire/T_JaggedRockFirey_01_N.uasset" 570
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeEffects/Environments/Fire/Env_Fire_Terrain2/Textures/T_Fire_Lava_2.uasset" 571
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeEffects/Effects/FX_Materials/Fire/M_JaggedRockFire_MeshEmit_Lit.uasset" 572
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeEffects/Effects/FX_Materials/Poison/M_JaggedRockPoison_MeshEmit_Lit_INST.uasset" 573
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeEffects/Effects/FX_Meshes/Skills/rock/SM_TapLob_Projectile_Bomb.uasset" 574
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/GameplayMechanics/Explosive_BP.uasset" 575
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Materials/M_AssetPlatform.uasset" 576
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 577
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/GameplayMechanics/FloatingPlatform_BP.uasset" 578
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Textures/T_FloorMarble_D.uasset" 579
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Textures/T_Marble_N.uasset" 580
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Textures/T_Trim_M.uasset" 581
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Textures/T_Trim_N.uasset" 582
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Materials/M_Trim.uasset" 583
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Materials/M_Trim_Inst.uasset" 584
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Textures/T_BottomTrim_M.uasset" 585
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Textures/T_BottomTrim_N.uasset" 586
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Materials/M_BottomTrim_Inst.uasset" 587
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Meshes/SM_BottomTrim_Sqr.uasset" 588
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Textures/T_Marble_D.uasset" 589
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Textures/T_StoneBrickWall_AO.uasset" 590
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Textures/T_StoneBrickWall_N.uasset" 591
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Materials/M_StoneBrickWall.uasset" 592
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Materials/M_StoneBrickWall_Inst.uasset" 593
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Meshes/SM_TrimWall_U.uasset" 594
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/GameplayMechanics/FloorSwitch2_BP1.uasset" 595
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/GameplayMechanics/FloorSwitch_BP.uasset" 596
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/GameplayMechanics/TransitionVolume_BP.uasset" 597
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Maps/SunTemple_BuiltData.uasset" 598
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Textures/Sky54a2048.uasset" 599
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Textures/Sky54a2048LDR.uasset" 600
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Textures/M_Sky.uasset" 601
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Textures/T_Arch_M.uasset" 602
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Textures/T_Arch_N.uasset" 603
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Materials/M_Arch.uasset" 604
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Materials/M_Arch_Inst.uasset" 605
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Materials/M_Arch_Inst_Red.uasset" 606
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Materials/M_Arch_Inst_Red_2.uasset" 607
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Textures/T_BackgroundMatte.uasset" 608
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Materials/M_BackgroundMatte.uasset" 609
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Materials/M_BackgroundMatte_Inst.uasset" 610
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Materials/M_BottomTrim.uasset" 611
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Materials/M_BottomTrim_Inst_Black.uasset" 612
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Materials/M_BottomTrim_Inst_UTile4.uasset" 613
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 614
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Textures/T_FirePit_M.uasset" 615
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Textures/T_FirePit_N.uasset" 616
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Materials/M_FirePit.uasset" 617
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Materials/M_FirePit_Inst.uasset" 618
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Materials/M_FirePit_Inst_Glow.uasset" 619
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Materials/M_FirePit_Inst_nofire.uasset" 620
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Textures/T_FloorTileMaskes_M.uasset" 621
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Textures/T_FloorTiles_N.uasset" 622
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Textures/T_FloorTiles_M.uasset" 623
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Materials/M_FloorTiles1.uasset" 624
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Materials/M_FloorTiles1_Inst.uasset" 625
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Materials/M_FloorTiles1_Inst_Blue.uasset" 626
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Materials/M_FloorTiles1_Inst_Inst2.uasset" 627
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Textures/T_FloorTiles2_N.uasset" 628
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Textures/T_FloorTiles2_M.uasset" 629
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Materials/M_FloorTiles2_Inst.uasset" 630
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Materials/M_FloorTiles2.uasset" 631
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Materials/M_FloorTiles2_Inst_Inst_Inst.uasset" 632
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Materials/M_FloorTiles2_Inst_Inst.uasset" 633
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Materials/M_FloorTiles2_Inst_REd.uasset" 634
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Textures/T_Pillar_N.uasset" 635
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Textures/T_Pillar_M.uasset" 636
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Materials/M_Pillar.uasset" 637
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Materials/M_Pillar_Inst.uasset" 638
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Materials/M_Pillar_Inst_Colored.uasset" 639
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Textures/T_Shield_M.uasset" 640
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Textures/T_Shield_N.uasset" 641
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Materials/M_Shield.uasset" 642
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Materials/M_Shield_Inst.uasset" 643
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Textures/T_Cave_Rock_Large02_N.uasset" 644
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Textures/T_Grass_D.uasset" 645
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Textures/T_Grass_N.uasset" 646
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Textures/T_Rocks_D.uasset" 647
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Textures/T_Rocks_N.uasset" 648
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Materials/M_Soul_Rocks2.uasset" 649
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Materials/M_Soul_Rocks2_Inst.uasset" 650
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Materials/M_StoneCeiling.uasset" 651
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Materials/M_StoneCeiling_Inst.uasset" 652
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Materials/M_Sun.uasset" 653
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Materials/M_Sun_Inst.uasset" 654
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Textures/T_COG_Foliage_Leaves_D.uasset" 655
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Textures/T_COG_Foliage_Leaves_N.uasset" 656
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Materials/M_Tree_Branches.uasset" 657
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Materials/M_Tree_Branches_Inst.uasset" 658
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Fresnel_Function.uasset" 659
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Fresnel.uasset" 660
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Materials/M_VolumetricLightSphere.uasset" 661
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Materials/M_VolumetricLightSphere_Inst.uasset" 662
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Materials/M_VolumetricLightSphere_Inst_Hot.uasset" 663
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Textures/T_Water2_N.uasset" 664
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Materials/M_Water.uasset" 665
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Materials/M_Water_Inst.uasset" 666
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Materials/M_Water_Inst_Ocean.uasset" 667
+"../../../Engine/Content/EngineLightProfiles/90Degree_IES.uasset" 668
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 669
+"../../../Engine/Content/MapTemplates/Bokeh_5Sides.uasset" 670
+"../../../Engine/Content/MapTemplates/Sky/T_Sky_Stars.uasset" 671
+"../../../Engine/Content/MapTemplates/Sky/T_UDK_Sky_CloudMask01_N.uasset" 672
+"../../../Engine/Content/MapTemplates/T_UDK_Sky_CloudMask03.uasset" 673
+"../../../Engine/Content/MapTemplates/Sky/M_Procedural_Sky_MASTER02.uasset" 674
+"../../../Engine/Content/MapTemplates/Sky/SM_SkySphere.uasset" 675
+"../../../Engine/Content/MapTemplates/T_ScreenDirt02_w.uasset" 676
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Textures/T_Bark01_D.uasset" 677
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Textures/T_Bark01_N.uasset" 678
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Materials/M_TreeTrunk01.uasset" 679
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Materials/M_TreeTrunk01_Inst.uasset" 680
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Meshes/S_BuildingSetA_Tree_02.uasset" 681
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Meshes/SM_Arch.uasset" 682
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Materials/M_Arch_Inst_2.uasset" 683
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Meshes/SM_Arch_2.uasset" 684
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Meshes/SM_Arch_2_Bend.uasset" 685
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Meshes/SM_BackGroundMatte.uasset" 686
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Meshes/SM_BottomTrim.uasset" 687
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Meshes/SM_BrickWall.uasset" 688
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Meshes/SM_Cave_Rock_Large02.uasset" 689
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Materials/M_Dome.uasset" 690
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Textures/T_Dome_M.uasset" 691
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Textures/T_Dome_N.uasset" 692
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Materials/M_Dome_Inst.uasset" 693
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Meshes/SM_Dome.uasset" 694
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Textures/T_Fire_D.uasset" 695
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Materials/M_Fire.uasset" 696
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Materials/M_Fire_Inst.uasset" 697
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Meshes/SM_FireFX.uasset" 698
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Meshes/SM_FirePit.uasset" 699
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Materials/M_FloorTiles1_Inst_Inst.uasset" 700
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Meshes/SM_Floor_Lower.uasset" 701
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Meshes/SM_Floor_Lower2.uasset" 702
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Meshes/SM_Floor_Round.uasset" 703
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Meshes/SM_Floor_StairTop.uasset" 704
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Meshes/SM_Floor_StairTop2.uasset" 705
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Meshes/SM_FloorPlane.uasset" 706
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Materials/M_Dome_1.uasset" 707
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Materials/M_Dome_2.uasset" 708
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Meshes/SM_Gable.uasset" 709
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Meshes/SM_PanelArch.uasset" 710
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Meshes/SM_PanelArch4.uasset" 711
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Meshes/SM_Pillar.uasset" 712
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Textures/T_Railing_M.uasset" 713
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Textures/T_Railing_N.uasset" 714
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Materials/M_Railing.uasset" 715
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Materials/M_Railing_Inst.uasset" 716
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Meshes/SM_Railing.uasset" 717
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Meshes/SM_RailingPillar.uasset" 718
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Meshes/SM_RailingStairs.uasset" 719
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Materials/M_Rocks.uasset" 720
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Materials/M_Rocks_Inst.uasset" 721
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Meshes/SM_RockTerrain.uasset" 722
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Meshes/SM_Shield.uasset" 723
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Textures/T_Stairs_M.uasset" 724
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Textures/T_Stairs_N.uasset" 725
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Materials/M_Stairs.uasset" 726
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Materials/M_Stairs_Inst.uasset" 727
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Meshes/SM_Stairs.uasset" 728
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Textures/T_Crackle.uasset" 729
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Textures/T_Crackle_N.uasset" 730
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Textures/T_Statue_M.uasset" 731
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Textures/T_Statue_N.uasset" 732
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Materials/M_Statue.uasset" 733
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Materials/M_Statue_Inst.uasset" 734
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Meshes/SM_Statue.uasset" 735
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Meshes/SM_Trim_1500.uasset" 736
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Materials/M_Trim_Inst_Inst.uasset" 737
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Meshes/SM_Trim_1500_M.uasset" 738
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Meshes/SM_Trim_Bend.uasset" 739
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Meshes/SM_Trim_Platform2.uasset" 740
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Meshes/SM_TrimWall.uasset" 741
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Meshes/SM_TrimWall_Door.uasset" 742
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Meshes/SM_TrimWall_Door3.uasset" 743
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Meshes/SM_TrimWall_Pillar.uasset" 744
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Textures/T_WavesFoam_D.uasset" 745
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Textures/T_WavesFoam_N.uasset" 746
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Materials/M_WaveFoam.uasset" 747
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Materials/M_WaveFoam_Inst.uasset" 748
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Meshes/SM_Waves.uasset" 749
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Materials/M_WaveFoam_Inst_Inst.uasset" 750
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Meshes/SM_Waves2.uasset" 751
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Meshes/SM_Window.uasset" 752
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Meshes/SM_WindowWall.uasset" 753
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Meshes/SM_WindowWall_Bend.uasset" 754
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Textures/Soul_Tree01DF.uasset" 755
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Textures/Soul_Tree01NRM.uasset" 756
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Materials/Soul_Tree011M.uasset" 757
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Materials/Soul_Tree011M_Inst.uasset" 758
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Assets/Meshes/Soul_FG01.uasset" 759
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Maps/SunTemple.umap" 760
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Enemies/Minions/MinionDawn2_BP1.uasset" 761
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Enemies/Minions/MinionDusk2_BP1.uasset" 762
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Enemies/Minions/MinionLane2_BP1.uasset" 763
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/Enemies/Spider/Spider2_BP1.uasset" 764
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 765
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 766
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 767
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 768
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 769
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 770
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 771
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 772
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 773
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/MultistoryDungeons/Meshes/Props/Potion_03.uasset" 774
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/GameplayMechanics/Potion_2_BP1.uasset" 775
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/MultistoryDungeons/Textures/Atlas_Props_01.uasset" 776
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/MultistoryDungeons/Textures/Atlas_Props_01_Metallic.uasset" 777
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/MultistoryDungeons/Textures/Atlas_Props_01_Normal.uasset" 778
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/MultistoryDungeons/Textures/Atlas_Props_01_Roughness.uasset" 779
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/MultistoryDungeons/Materials/Props_01.uasset" 780
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/MultistoryDungeons/Materials/Props_01_Inst.uasset" 781
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/MultistoryDungeons/Meshes/Props/Potion_Red_01.uasset" 782
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/GameplayMechanics/Potion_3_BP2.uasset" 783
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/Textures/T_Env_Ice_Ground_Rock_4_N.uasset" 784
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/Textures/T_Env_Snow_D.uasset" 785
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/Textures/T_Ice_Ground_Rock01_N.uasset" 786
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/Textures/T_Snow_Ice_Generic.uasset" 787
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/Textures/T_Snow_Ice_Generic_NRM.uasset" 788
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/Materials/M_Plains_Ocean.uasset" 789
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Terrain/Textures/T_Dirt_D.uasset" 790
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Terrain/Textures/T_Dirt_N.uasset" 791
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Terrain/Textures/T_Grass01_D.uasset" 792
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Terrain/Textures/T_Grass01_N.uasset" 793
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Terrain/Textures/T_Grass02_D.uasset" 794
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/SurfaceTypes/PhysicalMaterial_Land.uasset" 795
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Terrain/Materials/M_Terrain_Blend_Mobile.uasset" 796
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Effects/FX_Materials/M_PostSharpen.uasset" 797
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Effects/FX_Materials/M_PostSharpen_Inst.uasset" 798
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/Textures/T_Plains_Terrain_Floors01_D.uasset" 799
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/Textures/T_Plains_Terrain_Floors01_N.uasset" 800
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/SurfaceTypes/PhysicalMaterial_Stone.uasset" 801
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/Materials/M_Plains_Floors_Block.uasset" 802
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/Materials/M_Plains_Floors_Block_Inst.uasset" 803
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/Textures/T_Plains_FloorsTrim_D.uasset" 804
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/Textures/T_Plains_FloorsTrim_N.uasset" 805
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/Materials/M_Plains_FloorTrims.uasset" 806
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/Materials/M_Plains_FloorTrims_Inst.uasset" 807
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Textures/T_Plains_Ruins_Pillars_02_D.uasset" 808
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Textures/T_Plains_Ruins_Pillars_02_N.uasset" 809
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Materials/M_Plains_Pillars02.uasset" 810
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Materials/M_Plains_Pillars02_Inst.uasset" 811
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Textures/T_Plains_Ruins_Pillars_03_D.uasset" 812
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Textures/T_Plains_Ruins_Pillars_03_N.uasset" 813
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Materials/M_Plains_Pillars03.uasset" 814
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Materials/M_Plains_Pillars03_Inst.uasset" 815
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Textures/T_Plains_Ruins_Pillars_D.uasset" 816
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Textures/T_Plains_Ruins_Pillars_M.uasset" 817
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Textures/T_Plains_Ruins_Pillars_N.uasset" 818
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Materials/M_Plains_Pillars.uasset" 819
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Materials/M_Plains_Pillars_Inst.uasset" 820
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Textures/T_Plains_ExtCastle_StoneWall_01_D.uasset" 821
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Textures/T_Plains_ExtCastle_StoneWall_01_N.uasset" 822
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Materials/M_Plains_StoneWall.uasset" 823
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Materials/M_Plains_StoneWall_Inst.uasset" 824
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Statues/Textures/T_Plains_Angel_Statue_D.uasset" 825
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Statues/Textures/T_Plains_Angel_Statue_N.uasset" 826
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Statues/Materials/M_Plains_Angel_Statue.uasset" 827
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Statues/Materials/M_Plains_Angel_Statue_Inst.uasset" 828
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Statues/Textures/T_Plains_Man_Statue_D.uasset" 829
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Statues/Textures/T_Plains_Man_Statue_N.uasset" 830
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Statues/Materials/M_Plains_Man_Statue.uasset" 831
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Statues/Materials/M_Plains_Man_Statue_Inst.uasset" 832
+"../../../Engine/Content/MapTemplates/lut/LUT_Morning.uasset" 833
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Breakables/Textures/T_Env_Breakables_Breakables_D.uasset" 834
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Breakables/Textures/T_Env_Breakables_Breakables_N.uasset" 835
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Breakables/Textures/T_Env_Breakables_Breakables_R.uasset" 836
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Breakables/Textures/T_Env_Breakables_BreakablesSnow_M.uasset" 837
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Breakables/Materials/M_Breakables_Barrels.uasset" 838
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Breakables/StaticMesh/Box/SM_Env_Breakables_Box1.uasset" 839
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Breakables/StaticMesh/Box/SM_Env_Breakables_Box1_destroyed.uasset" 840
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Breakables/StaticMesh/Box/SM_Env_Breakables_Boxes.uasset" 841
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Breakables/StaticMesh/Box/SM_Env_Breakables_BoxesBITS.uasset" 842
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Breakables/StaticMesh/Objects/SM_Env_Breakables_GroupLg.uasset" 843
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/WorldPositionOffset/SimpleGrassWind.uasset" 844
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Earth/EX_EnvAssets/Textures/T_Env_Ice_Deco2_Flag_D.uasset" 845
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Earth/EX_EnvAssets/Materials/M_Env_Ice_Deco2_Flags.uasset" 846
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Earth/EX_EnvAssets/Meshes/SK_Env_Ice_Deco2_BlowingFlag_Skeleton.uasset" 847
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Earth/EX_EnvAssets/Meshes/SK_Env_Ice_Deco2_BlowingFlag.uasset" 848
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Earth/EX_EnvAssets/Meshes/SK_Env_Ice_Deco2_BlowingFlag3.uasset" 849
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Earth/Textures/T_Cherry_Tree_Flowers_D.uasset" 850
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Earth/Textures/T_Cherry_Tree_Flowers_N.uasset" 851
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Earth/Materials/M_Cherry_Tree.uasset" 852
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Earth/Textures/T_TreeBase1_D.uasset" 853
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Earth/Textures/T_TreeBase1_N.uasset" 854
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Earth/Materials/M_TreeBark.uasset" 855
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Earth/StaticMesh/SM_Cherry_Tree.uasset" 856
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Earth/Textures/T_GroundCover_Leaf01_D.uasset" 857
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Earth/Textures/T_GroundCover_Leaf01_N.uasset" 858
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Earth/Materials/M_GroundCover_LEafy.uasset" 859
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Earth/StaticMesh/SM_GroundCover_Leafy01.uasset" 860
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Earth/StaticMesh/SM_GroundCover_Leafy03.uasset" 861
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Earth/Textures/T_BranchTrunk_D.uasset" 862
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Earth/Materials/M_LeavesPile.uasset" 863
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Earth/StaticMesh/SM_LeavePiles_01.uasset" 864
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Earth/StaticMesh/SM_LeavePiles_02.uasset" 865
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Earth/StaticMesh/SM_Rootcluster_A.uasset" 866
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Earth/Textures/T_Plants_D.uasset" 867
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Earth/Textures/T_Plants_N.uasset" 868
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Earth/Materials/M_Exo_Generic_Plants.uasset" 869
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Earth/StaticMesh/SM_SmallTree02.uasset" 870
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco01/Textures/T_Exo_Cart_D.uasset" 871
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco01/Textures/T_Exo_Cart_N.uasset" 872
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco01/Materials/M_Exo_Cart.uasset" 873
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco01/StaticMesh/SM_Exo_Cart_Damaged.uasset" 874
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco01/Textures/T_Exo_Crate_Open_D.uasset" 875
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco01/Textures/T_Exo_Crate_Open_N.uasset" 876
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco01/Materials/M_Exo_Crate_Open.uasset" 877
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco01/StaticMesh/SM_Exo_Crate_Open_Damaged.uasset" 878
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco01/StaticMesh/SM_Exo_Crate_Open_Destroyed.uasset" 879
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco01/StaticMesh/SM_Exo_Crate_Open_Intact.uasset" 880
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco01/Textures/T_Snowy_Pine_Low.uasset" 881
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco01/Textures/T_Snowy_Pine_Low_N.uasset" 882
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco01/Materials/M_Pine_Low.uasset" 883
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco01/StaticMesh/SM_Pine_Low_Cluster.uasset" 884
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco01/Textures/T_WoodenBarrel_01_D.uasset" 885
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco01/Textures/T_WoodenBarrel_01_N.uasset" 886
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco01/Materials/M_WoodenBarrel_01.uasset" 887
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco01/StaticMesh/SM_WoodenBarrel_Damaged.uasset" 888
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco01/StaticMesh/SM_WoodenBarrel_Destroyed.uasset" 889
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco01/StaticMesh/SM_WoodenBarrel_Intact.uasset" 890
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/Textures/T_Decos_Door_D.uasset" 891
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/Textures/T_Decos_Door_M.uasset" 892
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/Textures/T_Decos_Door_N.uasset" 893
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/Materials/M_Decos_Door.uasset" 894
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Decos_Door02.uasset" 895
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Decos_Door04.uasset" 896
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/Textures/T_Decos_Door_Frame_D.uasset" 897
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/Textures/T_Decos_Door_Frame_D_NRM.uasset" 898
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/Materials/M_Decos_Door_Frame.uasset" 899
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Decos_Door_Frame02.uasset" 900
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/Textures/T_Pew_D.uasset" 901
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/Textures/T_Pew_N.uasset" 902
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/Materials/M_Pew.uasset" 903
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Pew.uasset" 904
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/Textures/T_HardWood_Floor_D.uasset" 905
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/Textures/T_HardWood_Floor_D_NRM.uasset" 906
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/Materials/M_HardWood_Floor.uasset" 907
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_ShantyBeams_Single_01.uasset" 908
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Background/Textures/T_Env_Plains_Mountain01_D.uasset" 909
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Background/Textures/T_Env_Plains_Mountain01_N.uasset" 910
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Background/Materials/M_Env_Plains_Mountain01.uasset" 911
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Background/StaticMesh/SM_Env_Plains_Mountain_01.uasset" 912
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Env_Plains_Floors_Rubble05.uasset" 913
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_Block01.uasset" 914
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_Block02.uasset" 915
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_Block02_Broken.uasset" 916
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_Block03.uasset" 917
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_Block04.uasset" 918
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_Brick01.uasset" 919
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_Flat01.uasset" 920
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_Flat02.uasset" 921
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_Rubble.uasset" 922
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_Rubble02.uasset" 923
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_Rubble03.uasset" 924
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_Rubble04.uasset" 925
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_Rubble05.uasset" 926
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_TrimBlock01.uasset" 927
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_TrimDesign03.uasset" 928
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_TrimDesignRubble01.uasset" 929
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/Textures/T_Plains_FloorsBeams_D.uasset" 930
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/Textures/T_Plains_FloorsBeams_N.uasset" 931
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/Materials/M_PLains_Scrap_Bridge.uasset" 932
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Scrap_Bridge01.uasset" 933
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Scrap_Bridge02.uasset" 934
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Scrap_BridgeRail03.uasset" 935
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Scrap_BridgeRail04.uasset" 936
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Flora/Textures/T_Plains_Fern01_D.uasset" 937
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Flora/Textures/T_Plains_Fern01_N.uasset" 938
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Flora/Materials/M_PLains_Fern01.uasset" 939
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Flora/StaticMesh/SM_Plains_Fern01.uasset" 940
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Flora/StaticMesh/SM_Plains_Fern02.uasset" 941
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Flora/StaticMesh/SM_Plains_Fern03.uasset" 942
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Flora/StaticMesh/SM_Plains_Fern04.uasset" 943
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Flora/StaticMesh/SM_Plains_Flowers01.uasset" 944
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Flora/StaticMesh/SM_Plains_Flowers03.uasset" 945
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Flora/StaticMesh/SM_Plains_Grass01.uasset" 946
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Flora/Textures/T_Plains_Tree01_D.uasset" 947
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Flora/Textures/T_Plains_Tree01_N.uasset" 948
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Flora/Materials/M_Plains_Tree_Stump01.uasset" 949
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Flora/StaticMesh/SM_Plains_Tree01.uasset" 950
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Flora/StaticMesh/SM_Plains_Tree_Branch01.uasset" 951
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Flora/StaticMesh/SM_Plains_Tree_Branch02.uasset" 952
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Flora/StaticMesh/SM_Plains_Tree_Stump01.uasset" 953
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Flora/StaticMesh/SM_Plains_Vine02.uasset" 954
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/Textures/T_Plains_Rock01_D.uasset" 955
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/Textures/T_Plains_Rock01_N.uasset" 956
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/Materials/M_Plains_LargeRock.uasset" 957
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/StaticMesh/SM_Plains_LargeRock01.uasset" 958
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/StaticMesh/SM_Plains_LargeRock02.uasset" 959
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/StaticMesh/SM_Plains_LargeRock03.uasset" 960
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/StaticMesh/SM_Plains_LargeRock_Pile01.uasset" 961
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/StaticMesh/SM_Plains_LargeRock_SpireLOD.uasset" 962
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/StaticMesh/SM_Plains_LargeRock_SpireLOD2.uasset" 963
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/Textures/T_Plains_Ground01_D.uasset" 964
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/Textures/T_Plains_Ground01_N.uasset" 965
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/Materials/M_Plains_GroundBrick.uasset" 966
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/StaticMesh/SM_Plains_LargeRock_SpireLOD4.uasset" 967
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/Textures/T_Plains_Cliff001.uasset" 968
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/Textures/T_Plains_Cliff01.uasset" 969
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/Materials/M_Plains_Cliff1.uasset" 970
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/StaticMesh/SM_Plains_LargeRock_SpireLOD5.uasset" 971
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/Textures/T_Plains_Rock02_D.uasset" 972
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/Textures/T_Plains_Rock02_N.uasset" 973
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/Materials/M_Plains_SmallRock.uasset" 974
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/StaticMesh/SM_Plains_SmallRock01.uasset" 975
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/StaticMesh/SM_WaterPlain.uasset" 976
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Buttress_01.uasset" 977
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Buttress_02.uasset" 978
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Castle_Bridge_Wall_01.uasset" 979
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Castle_Circle_Railing_01.uasset" 980
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Castle_Fountain_01.uasset" 981
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Castle_Railing_Curved.uasset" 982
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Castle_Railing_Curved_45.uasset" 983
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Castle_Stairs_01.uasset" 984
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_CastleArch_01.uasset" 985
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_CastleArch_02.uasset" 986
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_CastleArch_03.uasset" 987
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Textures/T_Plains_Castle_Wroughtlron_D.uasset" 988
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Textures/T_Plains_Castle_Wroughtlron_N.uasset" 989
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Materials/M_PLains_Castle_WroughtIron.uasset" 990
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_CastleArch_Iron_Gate_01.uasset" 991
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_CastleArch_Iron_Gate_01_Broken.uasset" 992
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_CastleArch_Iron_Gate_02_Broken.uasset" 993
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_CastleArch_Ruin_01.uasset" 994
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_CastleArch_Ruin_03.uasset" 995
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_CastleDoorArch_01.uasset" 996
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_CastleTower_01.uasset" 997
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_CastleTower_Ruin_01.uasset" 998
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_CastleTower_Ruin_02.uasset" 999
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_CastleWall_Curved_Ruin_01.uasset" 1000
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_CastleWall_Ruin_01.uasset" 1001
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_CastleWall_Ruin_02.uasset" 1002
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_CastleWall_Ruin_03.uasset" 1003
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_CastleWall_Ruin_04.uasset" 1004
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_CastleWall_Support_01.uasset" 1005
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Column_Large_01.uasset" 1006
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Column_Large_Broken_01.uasset" 1007
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Column_Large_Broken_02.uasset" 1008
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Column_Large_Broken_03.uasset" 1009
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Column_Mid_01.uasset" 1010
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Column_Small_01.uasset" 1011
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Column_Small_Broken_01.uasset" 1012
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Column_Small_Broken_02.uasset" 1013
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Ruin_BuildingLOD01.uasset" 1014
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Ruin_BuildingLOD02.uasset" 1015
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Ruin_BuildingLOD03.uasset" 1016
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Textures/T_Plains_Ruins_Cage_D.uasset" 1017
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Textures/T_Plains_Ruins_Cage_N.uasset" 1018
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Materials/M_Plains_Cage.uasset" 1019
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Ruins_Brazier_01.uasset" 1020
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Ruins_Cage_Broken_02.uasset" 1021
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_ShortColumn_01.uasset" 1022
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_ShortWall_Straight_01.uasset" 1023
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Wall_Railing_01.uasset" 1024
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Wall_Straight_01.uasset" 1025
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Statues/StaticMesh/SM_Plains_Angel_Statue_01_nobase.uasset" 1026
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Statues/StaticMesh/SM_Plains_Angel_Statue_01_nobase_torch.uasset" 1027
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Statues/StaticMesh/SM_Plains_Man_Statue_01.uasset" 1028
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Statues/StaticMesh/SM_Plains_Man_Statue_01_torch.uasset" 1029
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Terrain/ElvenRuins_Terrain.uasset" 1030
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/InfinityBladeGrassLands/Maps/ElvenRuins.umap" 1031
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 1032
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 1033
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 1034
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 1035
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 1036
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 1037
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 1038
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 1039
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 1040
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 1041
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 1042
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 1043
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" 1044
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 1045
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 1046
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 1047
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 1048
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 1049
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 1050
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 1051
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Maps/Advanced_Lighting.umap" 1052
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" 1053
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_MacroVariation.uasset" 1054
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 1055
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 1056
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 1057
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 1058
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 1059
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Materials/M_Metal_Copper.uasset" 1060
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_Statue_M.uasset" 1061
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_Statue_N.uasset" 1062
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 1063
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Architecture/Floor_400x400.uasset" 1064
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 1065
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Props/SM_Chair.uasset" 1066
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Props/Materials/M_Statue.uasset" 1067
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Props/SM_Statue.uasset" 1068
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_TableRound_M.uasset" 1069
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_TableRound_N.uasset" 1070
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Props/Materials/M_TableRound.uasset" 1071
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Props/SM_TableRound.uasset" 1072
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Maps/Minimal_Default.umap" 1073
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Audio/Fire01_Cue.uasset" 1074
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 1075
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Audio/Smoke01_Cue.uasset" 1076
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 1077
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 1078
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 1079
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Audio/Steam01_Cue.uasset" 1080
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 1081
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_Lamp_M.uasset" 1082
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_Lamp_N.uasset" 1083
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Props/Materials/M_Lamp.uasset" 1084
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 1085
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 1086
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 1087
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 1088
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" 1089
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 1090
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 1091
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 1092
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 1093
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 1094
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 1095
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 1096
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 1097
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 1098
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 1099
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 1100
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 1101
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 1102
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 1103
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 1104
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 1105
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 1106
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 1107
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 1108
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 1109
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 1110
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 1111
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 1112
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 1113
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 1114
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 1115
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 1116
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 1117
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 1118
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 1119
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 1120
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_Gradinet_01.uasset" 1121
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 1122
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 1123
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 1124
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 1125
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 1126
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 1127
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 1128
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 1129
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 1130
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 1131
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 1132
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 1133
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 1134
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 1135
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 1136
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 1137
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 1138
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 1139
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 1140
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 1141
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 1142
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 1143
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Materials/M_Ground_Grass.uasset" 1144
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 1145
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 1146
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 1147
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 1148
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 1149
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Materials/M_Ground_Moss.uasset" 1150
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 1151
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 1152
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Materials/M_Metal_Gold.uasset" 1153
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 1154
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Materials/M_Metal_Rust.uasset" 1155
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 1156
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 1157
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Materials/M_Metal_Steel.uasset" 1158
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 1159
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 1160
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 1161
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 1162
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 1163
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 1164
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 1165
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 1166
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Materials/M_Rock_Slate.uasset" 1167
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 1168
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 1169
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 1170
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 1171
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 1172
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 1173
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 1174
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 1175
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 1176
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 1177
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 1178
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Materials/M_Tech_Panel.uasset" 1179
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Materials/M_Water_Lake.uasset" 1180
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_Water_M.uasset" 1181
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Materials/M_Water_Ocean.uasset" 1182
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 1183
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 1184
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 1185
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 1186
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 1187
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 1188
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 1189
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 1190
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Materials/M_Wood_Oak.uasset" 1191
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 1192
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 1193
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Materials/M_Wood_Pine.uasset" 1194
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 1195
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 1196
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 1197
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Architecture/Wall_400x200.uasset" 1198
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 1199
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 1200
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Audio/Collapse_Cue.uasset" 1201
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 1202
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 1203
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 1204
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 1205
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Props/MaterialSphere.uasset" 1206
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_Frame_M.uasset" 1207
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Textures/T_Frame_N.uasset" 1208
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Props/Materials/M_Frame.uasset" 1209
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Props/SM_CornerFrame.uasset" 1210
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Props/SM_DoorFrame.uasset" 1211
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Props/SM_GlassWindow.uasset" 1212
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Props/SM_PillarFrame.uasset" 1213
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Props/SM_PillarFrame300.uasset" 1214
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Props/SM_WindowFrame.uasset" 1215
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Shapes/Shape_Cube.uasset" 1216
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 1217
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Shapes/Shape_Sphere.uasset" 1218
+"E:/Unreal Projects/FirstProjectClean/FirstProject/Content/StarterContent/Maps/StarterMap.umap" 1219
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 1220
+"../../../Engine/Content/Maps/Entry.umap" 1221
